@@ -4,7 +4,7 @@
 
 Unauthorized reproduction and redistribution without citations are prohibited. 
 
-For the full report, please visit: https://medium.com/@all.about.equilibria/prediction-of-movie-revenue-for-film-investors-at-pre-production-stages-1b229b6a4f8a
+To read the report for this project, please visit: https://medium.com/@all.about.equilibria/prediction-of-movie-revenue-for-film-investors-at-pre-production-stages-1b229b6a4f8a
 
 For more information about the author, please visit:
 https://allaboutequilibria.wixsite.com/jiseon-park
